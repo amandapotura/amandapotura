@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Amanda Eduarda Meirelles Potura, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IEE Cardeal Pacelli. Atualmente, estou cursando Ciência da computação na UFFS. Sou apaixonada por tecnologia e meu objetivo é poder compartilhar meu conhecimento e contribuir para a melhora de programas e sites.
+Me chamo Amanda Eduarda Meirelles Potura, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IEE Cardeal Pacelli. Atualmente, estou cursando Ciência da computação na UFFS. Sou apaixonada por tecnologia e meu objetivo é poder compartilhar meu conhecimento e contribuir para a melhoria de programas e sites.
 
 <p align="left"> 
     <a href="https://github.com/amandapotura?tab=followers">
